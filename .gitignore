@@ -1,0 +1,35 @@
+# Python Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Bytecode and Cache
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# Local Server and System Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
